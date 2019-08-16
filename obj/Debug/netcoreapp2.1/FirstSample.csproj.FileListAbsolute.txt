@@ -1,0 +1,11 @@
+/Users/madgang/dev/vscode/FirstSample/FirstSample/bin/Debug/netcoreapp2.1/FirstSample.deps.json
+/Users/madgang/dev/vscode/FirstSample/FirstSample/bin/Debug/netcoreapp2.1/FirstSample.runtimeconfig.json
+/Users/madgang/dev/vscode/FirstSample/FirstSample/bin/Debug/netcoreapp2.1/FirstSample.runtimeconfig.dev.json
+/Users/madgang/dev/vscode/FirstSample/FirstSample/bin/Debug/netcoreapp2.1/FirstSample.dll
+/Users/madgang/dev/vscode/FirstSample/FirstSample/bin/Debug/netcoreapp2.1/FirstSample.pdb
+/Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.csprojAssemblyReference.cache
+/Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.csproj.CoreCompileInputs.cache
+/Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.AssemblyInfoInputs.cache
+/Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.AssemblyInfo.cs
+/Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.dll
+/Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.pdb
