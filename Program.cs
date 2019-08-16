@@ -9,6 +9,7 @@ namespace FirstSample
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            SampleMethod();
         }
 
         static void SampleMethod()

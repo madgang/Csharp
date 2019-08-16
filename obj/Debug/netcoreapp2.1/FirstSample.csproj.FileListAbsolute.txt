@@ -9,3 +9,14 @@
 /Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.AssemblyInfo.cs
 /Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.dll
 /Users/madgang/dev/vscode/FirstSample/FirstSample/obj/Debug/netcoreapp2.1/FirstSample.pdb
+/Users/SUNGJUNG/dev/Csharp/bin/Debug/netcoreapp2.1/FirstSample.deps.json
+/Users/SUNGJUNG/dev/Csharp/bin/Debug/netcoreapp2.1/FirstSample.runtimeconfig.json
+/Users/SUNGJUNG/dev/Csharp/bin/Debug/netcoreapp2.1/FirstSample.runtimeconfig.dev.json
+/Users/SUNGJUNG/dev/Csharp/bin/Debug/netcoreapp2.1/FirstSample.dll
+/Users/SUNGJUNG/dev/Csharp/bin/Debug/netcoreapp2.1/FirstSample.pdb
+/Users/SUNGJUNG/dev/Csharp/obj/Debug/netcoreapp2.1/FirstSample.csprojAssemblyReference.cache
+/Users/SUNGJUNG/dev/Csharp/obj/Debug/netcoreapp2.1/FirstSample.csproj.CoreCompileInputs.cache
+/Users/SUNGJUNG/dev/Csharp/obj/Debug/netcoreapp2.1/FirstSample.AssemblyInfoInputs.cache
+/Users/SUNGJUNG/dev/Csharp/obj/Debug/netcoreapp2.1/FirstSample.AssemblyInfo.cs
+/Users/SUNGJUNG/dev/Csharp/obj/Debug/netcoreapp2.1/FirstSample.dll
+/Users/SUNGJUNG/dev/Csharp/obj/Debug/netcoreapp2.1/FirstSample.pdb
